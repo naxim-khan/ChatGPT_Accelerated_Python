@@ -1,0 +1,9 @@
+.Python
+    A programming language for computer.
+
+. Variable. 
+    A container with label to store data.
+    box = guns
+    Here box is container which contains guns 
+
+    

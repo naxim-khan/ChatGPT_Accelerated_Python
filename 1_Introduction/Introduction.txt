@@ -1,0 +1,48 @@
+What is Program?
+    . A program is a file containing a set of set of instructions which tells the computer how to do something.
+
+    . A program can :
+        * Take in Information: 
+            from files, other programs and services, sensors attached to the computer, or user
+            behaviour like typing or useing the mouse.
+        * Transform the information: 
+            By doing math, looking things up comparing things , etc.
+        * Output information: 
+            back to the user, in the form of tesxt, images, files, or control of devices that are connected to the computer.
+    
+    . To write a program, you need to speak the computers language !
+    
+------------------------------------------------------------------------------------------------------------------------------------------------
+What is a Language ?
+
+    . A language is a way of communicating. It has words, syntax, structure, and meanings.
+        programming languages are let humans communicate to the computer!
+    . Computers are dumb:
+        By executing a program, you will cause the computer to follow exactly, and only, the instruction you have given it - whether they make
+        sense or not! Learning to program means learning to communicate precisely.
+    . A programming language is built for exact communications:
+        That means that there are relatively few words and structures, which we will reuse over and over.
+    . Learning a language means learning to read the instructions:
+        You'll learn not only to write the code yourself, but to read and analyze code supplied by ChatGPT, coming to understand what the computer
+        would do if it received these instructions, and why. 
+------------------------------------------------------------------------------------------------------------------------------------------------
+What is Compiler or Interpreter ?
+
+    They are the translator for us which translate our human readable code to machine understandable code.
+    Because the computers only know 0 1 and nothing else.
+
+----------------------------------------- -------------------------------------------------------------------------------------------------------
+Learning the words:
+
+    . Language Keywords:
+        define the human-readable instructions we can give to the computer
+    . Jargon or specialized vocabulary: 
+        will help you talk to other programmers about programming, and understand how to read documentation that you find.
+    . You've already learned a few such words, like program and instrction.
+      Here are few more:
+        . Script:
+            A program written in a language that needs an interpreter program (like Python) in order to be executred.
+        . IDE:
+              An interactive Development Environment, like PyCharm, which adds tools to make development quicker and easier.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
